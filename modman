@@ -10,5 +10,4 @@ app/code/local/Muelln/Talent/Model/Talent/Attributes.php app/code/local/Muelln/T
 app/code/local/Muelln/Talent/Model/Talent.php app/code/local/Muelln/Talent/Model/Talent.php
 app/code/local/Muelln/Talent/sql/muelln_talent_setup/install-0.1.0.php app/code/local/Muelln/Talent/sql/muelln_talent_setup/install-0.1.0.php
 app/etc/modules/Muelln_Talent.xml app/etc/modules/Muelln_Talent.xml
-bla bla
 shell/talent_importer.php shell/talent_importer.php
