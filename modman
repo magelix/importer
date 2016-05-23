@@ -1,0 +1,14 @@
+app/code/local/Muelln/Talent/etc/config.xml app/code/local/Muelln/Talent/etc/config.xml
+app/code/local/Muelln/Talent/Helper/Data.php app/code/local/Muelln/Talent/Helper/Data.php
+app/code/local/Muelln/Talent/Model/Csv.php app/code/local/Muelln/Talent/Model/Csv.php
+app/code/local/Muelln/Talent/Model/Mapper.php app/code/local/Muelln/Talent/Model/Mapper.php
+app/code/local/Muelln/Talent/Model/Resource/Talent/Attributes/Collection.php app/code/local/Muelln/Talent/Model/Resource/Talent/Attributes/Collection.php
+app/code/local/Muelln/Talent/Model/Resource/Talent/Attributes.php app/code/local/Muelln/Talent/Model/Resource/Talent/Attributes.php
+app/code/local/Muelln/Talent/Model/Resource/Talent/Collection.php app/code/local/Muelln/Talent/Model/Resource/Talent/Collection.php
+app/code/local/Muelln/Talent/Model/Resource/Talent.php app/code/local/Muelln/Talent/Model/Resource/Talent.php
+app/code/local/Muelln/Talent/Model/Talent/Attributes.php app/code/local/Muelln/Talent/Model/Talent/Attributes.php
+app/code/local/Muelln/Talent/Model/Talent.php app/code/local/Muelln/Talent/Model/Talent.php
+app/code/local/Muelln/Talent/sql/muelln_talent_setup/install-0.1.0.php app/code/local/Muelln/Talent/sql/muelln_talent_setup/install-0.1.0.php
+app/etc/modules/Muelln_Talent.xml app/etc/modules/Muelln_Talent.xml
+bla bla
+shell/talent_importer.php shell/talent_importer.php
